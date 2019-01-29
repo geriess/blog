@@ -1,0 +1,9 @@
+[submodule "themes/hugo-hyde-theme"]
+	path = themes/hugo-hyde-theme
+	url = https://github.com/spf13/hyde.git
+[submodule "themes/themes/hugo-aether-theme"]
+	path = themes/themes/hugo-aether-theme
+	url = https://github.com/josephhutch/aether.git
+[submodule "themes/hugo-aether-theme"]
+	path = themes/hugo-aether-theme
+	url = https://github.com/josephhutch/aether.git
