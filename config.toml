@@ -1,11 +1,12 @@
-baseurl = "http://example.org"
-title = "Hugo Themes - aether"
-author = "Joe Hutchinson"
+baseurl = "https://geries.com"
+languageCode = "en-us"
+title = "Geries Simon's Blog"
+author = "Geries Simon"
 canonifyurls = true
 paginate = 3
 theme = "aether"
 
 [params]
 brand = "aether"
-description = "aether Hugo theme for blogs"
+description = "Personal Blog"
 bgimg = "img/ignasi_pattern_s.png"
