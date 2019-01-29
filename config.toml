@@ -1,8 +1,8 @@
 ## Basic Configuration
-baseurl = "https://example.com/"
+baseurl = "https://geries.com/"
 languageCode = "en"
 
-title = "Title"
+title = "Geries Simon's Blog"
 theme = "hyde-hyde"
 
 ## Hugo Built-in Features
@@ -16,7 +16,7 @@ theme = "hyde-hyde"
 
 ## Site Settings
 [params]
-    author = "Author"
+    author = "Geries Simon"
     title = "Title"
     # description = "..."
     authorimage = "/img/hugo.png"
@@ -43,14 +43,14 @@ theme = "hyde-hyde"
 
 ## Social Accounts
 [params.social]
-    github = "<username>"
-    instagram = "<username>"
-    xing = "<username>"
-    linkedin = "<username>"
-    twitter = "<username>"
-    facebook = "<username>"
-    stackoverflow = "<username>"
-    telegram = "<username>"
+    # github = "<username>"
+    # instagram = "<username>"
+    # xing = "<username>"
+    # linkedin = "<username>"
+    twitter = "geries"
+    # facebook = "<username>"
+    # stackoverflow = "<username>"
+    # telegram = "<username>"
     email = "your-email@example.com"
     # gravatar = "your-email@example.com"
 
