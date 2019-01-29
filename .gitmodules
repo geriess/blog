@@ -7,3 +7,6 @@
 [submodule "themes/hugo-aether-theme"]
 	path = themes/hugo-aether-theme
 	url = https://github.com/josephhutch/aether.git
+[submodule "themes/aether"]
+	path = themes/aether
+	url = https://github.com/josephhutch/aether.git
