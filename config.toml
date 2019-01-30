@@ -2,7 +2,7 @@
 baseurl = "https://geries.com/"
 languageCode = "en"
 
-title = "Geries Simon's Blog"
+title = "Geries Simon"
 theme = "hyde-hyde"
 
 ## Hugo Built-in Features
