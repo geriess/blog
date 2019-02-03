@@ -17,9 +17,9 @@ theme = "hyde-hyde"
 ## Site Settings
 [params]
     author = "Geries Simon"
-    title = "Title"
-    # description = "The blog of Geries Simon."
-    authorimage = "/img/hugo.png"
+    title = "Geries Simon"
+    description = "The personal blog of Geries Simon."
+    authorimage = "/img/geries.png"
     dateformat = "Jan 2, 2006"
 
     # sidebar, copyright & license
