@@ -1,13 +1,11 @@
 ---
 title: "Going to India and Starting a New Team"
 date: 2019-02-02T17:21:17-06:00
-tags = [
-    "India",
-]
-categories = [
-    "travel",
-	"Dell",
-]
+tags:
+- India
+categories:
+- travel
+- Dell
 draft: false
 ---
 
