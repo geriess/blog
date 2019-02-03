@@ -7,7 +7,7 @@ theme = "hyde-hyde"
 
 ## Hugo Built-in Features
 # disqusShortname = "your-disqus-shortname"
-# googleAnalytics = "your-google-analytics-id"
+googleAnalytics = "UA-133653076-1"
 # enableRobotsTXT = true
 
 # summarylength = 30
@@ -43,7 +43,7 @@ theme = "hyde-hyde"
 
 ## Social Accounts
 [params.social]
-    # github = "<username>"
+    # github = "geriess"
     # instagram = "<username>"
     # xing = "<username>"
     linkedin = "geries"
