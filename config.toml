@@ -18,7 +18,7 @@ theme = "hyde-hyde"
 [params]
     author = "Geries Simon"
     title = "Geries Simon"
-    description = "Be where you are. There's nothing to fix."
+    description = "A personal blog about my journey in life."
     authorimage = "/img/geries.png"
     dateformat = "Jan 2, 2006"
 
