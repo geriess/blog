@@ -22,7 +22,7 @@ Aside from my never-ending interests and activities in the technology space, I o
 
 ## My interests
 
-My interests are in distributed computing, infrastructure, and automation. I'd like to play with things that relate to Go, the programming language. I also would like to do more writing in my free time, and this is the main reason I started this blog. I'll keep my fingers crossed that there will be more than one post on this blog. :)
+My interests are in distributed computing and infrastructure. I also would like to do more writing in my free time, and this is the main reason I started this blog. I'll keep my fingers crossed that there will be more than one post on this blog. :)
 
 ## Get in touch
 
