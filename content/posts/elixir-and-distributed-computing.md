@@ -13,7 +13,7 @@ I stumbled into Elixir in my quest to learn more about distributed computing fra
 
 In the next few weeks I will be finding ways to pilot test this language at work. Here is a brief overview of the language including a mini demo of distributed computing.
 
-{{ < youtube lxYFOM3UJzo > }}
+{{< youtube lxYFOM3UJzo >}}
 
 
 
