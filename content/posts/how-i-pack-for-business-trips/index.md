@@ -1,5 +1,5 @@
 ---
-title: "How I Travel"
+title: "How I Pack For Business Trips"
 date: 2019-02-10T20:40:00-06:00
 tags:
 - gear
