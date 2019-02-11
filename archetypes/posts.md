@@ -9,3 +9,5 @@ categories:
 - cat2
 draft: true
 ---
+
+{{< bundle-image name="picture.jpg" alt="Description for screen readers." caption="Some caption"  >}}
