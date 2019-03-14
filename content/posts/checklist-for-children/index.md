@@ -5,7 +5,6 @@ tags:
 - fun 
 categories:
 - writing
-timeout: 30000
 draft: false
 ---
 

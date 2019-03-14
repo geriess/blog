@@ -1,6 +1,7 @@
 ## Basic Configuration
 baseurl = "/"
 languageCode = "en"
+timeout = "30000"
 
 title = "Geries Simon"
 theme = "hyde-hyde"
